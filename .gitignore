@@ -26,17 +26,13 @@ _testmain.go
 
 debug
 
-/ark
 .idea/
 
 .container-*
 .vimrc
 .go
-.DS_Store
-.push-*
-.vscode
-*.diff
 
+.svn/
 _site/
-
-.vs
+logs/
+tmp/
